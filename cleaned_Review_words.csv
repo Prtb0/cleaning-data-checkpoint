@@ -1,0 +1,502 @@
+,Airline Name,Overall_Rating,Review_Title,cleaned_review_words
+0,ANA All Nippon Airways,7,"""Japanese food was generally good""",Japanese
+1,ANA All Nippon Airways,9,"""Great service, lovely crew""",food
+2,ANA All Nippon Airways,8,"""a good experience""",generally
+3,ANA All Nippon Airways,1,"""a dreadful experience""",good
+4,ANA All Nippon Airways,3,"""extremely unhappy""",Great
+5,ANA All Nippon Airways,1,"""received a great customer service""",lovely
+6,ANA All Nippon Airways,1,"""flight attendants are top-notch""",crew
+7,ANA All Nippon Airways,1,"""Pretty faultless""",good
+8,ANA All Nippon Airways,5,"""business class product is superior""",dreadful
+9,ANA All Nippon Airways,1,"""remains a 5 star Airline""",extremely
+10,ANA All Nippon Airways,7,"""staff are polite and attentive""",unhappy
+11,ANA All Nippon Airways,1,"""have never been disappointed""",received
+12,ANA All Nippon Airways,1,"""I will continue to use them""",great
+13,ANA All Nippon Airways,8,"""IFE was good"" ",customer
+14,ANA All Nippon Airways,1,"""It's always a pleasure on ANA""",attendants
+15,ANA All Nippon Airways,1,"""they do not miss a beat""",top-notch
+16,ANA All Nippon Airways,2,"""Horrendous seats on the 787""",Pretty
+17,ANA All Nippon Airways,1,"""should be very proud of their team""",faultless
+18,ANA All Nippon Airways,1,"""deserves its 5-star rating"" ",business
+19,ANA All Nippon Airways,1,"""Overall a good flight""",class
+20,ANA All Nippon Airways,8,"""staff Service was great""",product
+21,ANA All Nippon Airways,4,"""cannot reach them by phone""",superior
+22,ANA All Nippon Airways,9,"""she was outstanding""",remains
+23,ANA All Nippon Airways,1,"""Brilliant care and support"" ",5
+24,ANA All Nippon Airways,7,"""FAs very pleasant and hardworking""",star
+25,ANA All Nippon Airways,2,"""require mask in a 14h flight""",polite
+26,ANA All Nippon Airways,1,"""Service was exceptional""",attentive
+27,ANA All Nippon Airways,1,"""expect extreme quality of service""",disappointed
+28,ANA All Nippon Airways,1,"""food, service, cleanness are all 10/10""",IFE
+29,ANA All Nippon Airways,2,"""Upsetting to have to sit next to random people""",good
+30,ANA All Nippon Airways,1,"""an extraordinary team member""",pleasure
+31,ANA All Nippon Airways,1,"""Crew are helpful and kind""",ANA
+32,ANA All Nippon Airways,9,"""experience is so great""",Horrendous
+33,ANA All Nippon Airways,1,"""ANA is the very best""",seats
+34,ANA All Nippon Airways,1,"""they go above and beyond""",787
+35,ANA All Nippon Airways,1,"""the flight service was outstanding""",proud
+36,ANA All Nippon Airways,9,"""FAs were fantastic, attentive, polite,""",team
+37,ANA All Nippon Airways,5,"""could not upgrade my seat to Premium Economy""",deserves
+38,ANA All Nippon Airways,7,"""FA's were fantastic, attentive and proactive""",5-star
+39,ANA All Nippon Airways,1,"""continues to deliver outstanding service""",rating
+40,ANA All Nippon Airways,9,"""I was very comfortable""",Overall
+41,ANA All Nippon Airways,1,"""I strongly recommend ANA""",good
+42,ANA All Nippon Airways,9,"""very courteous, polite and helpful""",great
+43,ANA All Nippon Airways,9,"""very polite and courteous""",outstanding
+44,ANA All Nippon Airways,8,"""This is a good flight with ANA""",Brilliant
+45,ANA All Nippon Airways,9,"""I strongly recommend ANA""",FAs
+46,ANA All Nippon Airways,9,"""the best airline experience""",pleasant
+47,ANA All Nippon Airways,1,"""Best business product out there""",hardworking
+48,ANA All Nippon Airways,9,"""pleasant and cheerful""",14h
+49,ANA All Nippon Airways,1,"""helpful and professional""",exceptional
+50,ANA All Nippon Airways,1,"""cabin crew was outstanding""",extreme
+51,ANA All Nippon Airways,1,"""exceeded all the expectations""",quality
+52,ANA All Nippon Airways,1,"""best airline I have been on""",food
+53,ANA All Nippon Airways,9,"""one of the best if not the best""",cleanness
+54,ANA All Nippon Airways,7,"""Premium Economy seat was great""",10-Oct
+55,ANA All Nippon Airways,7,"""Staff welcoming and friendly""",Upsetting
+56,ANA All Nippon Airways,3,"""told I must pay a cancellation fee""",random
+57,ANA All Nippon Airways,6,"""found the leg room was excellent""",people
+58,ANA All Nippon Airways,1,"""Customer service is the best""",extraordinary
+59,ANA All Nippon Airways,1,"""the cabin was sparkling clean""",team
+60,ANA All Nippon Airways,8,"""Service was good""",member
+61,ANA All Nippon Airways,1,"""In-flight meals were exceptional""",Crew
+62,ANA All Nippon Airways,5,"""service was superb""",helpful
+63,ANA All Nippon Airways,9,"""service was exceptional""",kind
+64,ANA All Nippon Airways,9,"""I highly recommend ANA to anyone""",great
+65,ANA All Nippon Airways,1,"""tried to source compensation""",ANA
+66,ANA All Nippon Airways,3,"""my surfboard bag was too big""",best
+67,ANA All Nippon Airways,5,"""I was going to skip one flight""",outstanding
+68,ANA All Nippon Airways,5,"""efficient and pleasant FAs""",FAs
+69,ANA All Nippon Airways,5,"""Good service all in all""",fantastic
+70,ANA All Nippon Airways,1,"""it's such a good experience""",attentive
+71,ANA All Nippon Airways,1,"""return flight was day of Typhoon Hagibis""",polite
+72,ANA All Nippon Airways,4,"""poor ticketing system""",Premium
+73,ANA All Nippon Airways,4,"""climb up stairs to the plane""",Economy
+74,ANA All Nippon Airways,1,"""ANA is always a pleasure""",FA
+75,ANA All Nippon Airways,1,"""serving with their hearts""",fantastic
+76,ANA All Nippon Airways,1,"""most disappointing""",attentive
+77,ANA All Nippon Airways,3,"""have to wait for check-in""",proactive
+78,ANA All Nippon Airways,1,"""service from the FAs was excellent""",continues
+79,ANA All Nippon Airways,1,"""the best travel experience""",outstanding
+80,ANA All Nippon Airways,1,"""very happy with the service""",comfortable
+81,ANA All Nippon Airways,1,"""up to the same high standards of service""",strongly
+82,ANA All Nippon Airways,3,"""the flight is cancelled""",ANA
+83,ANA All Nippon Airways,4,"""the food was below average""",courteous
+84,ANA All Nippon Airways,1,"""very satisfied with ANA""",polite
+85,ANA All Nippon Airways,9,"""very satisfied with ANA""",helpful
+86,ANA All Nippon Airways,1,"""food was delicious and fresh""",polite
+87,ANA All Nippon Airways,9,"""Crew was extremely friendly""",courteous
+88,ANA All Nippon Airways,1,"""best ANA flight attendant service""",good
+89,ANA All Nippon Airways,1,"""the service cannot be faulted""",ANA
+90,ANA All Nippon Airways,1,"""had purchased separate tickets""",strongly
+91,ANA All Nippon Airways,1,"""FA's always were personable""",ANA
+92,ANA All Nippon Airways,1,"""best airline I've tried""",best
+93,ANA All Nippon Airways,9,"""seats offer a lot of privacy""",Best
+94,ANA All Nippon Airways,7,"""a real 5 Star Airline""",business
+95,ANA All Nippon Airways,1,"""Wonderful service""",product
+96,ANA All Nippon Airways,9,"""the wonderful service""",pleasant
+97,ANA All Nippon Airways,8,"""Overall, it's good flight""",cheerful
+98,ANA All Nippon Airways,2,"""they did keep us together""",helpful
+99,ANA All Nippon Airways,1,"""cabin crew was fantastic!""",cabin
+100,Bangkok Airways,1,"""I was extremely happy""",crew
+101,Bangkok Airways,8,"""check in was seamless""",outstanding
+102,Bangkok Airways,1,"""a perfect flight"" ",exceeded
+103,Bangkok Airways,8,"""it was a great flight""",expectations
+104,Bangkok Airways,3,"""Not the greatest treatment of passengers""",best
+105,Bangkok Airways,8,"""the crew was friendly""",best
+106,Bangkok Airways,4,"""I have been avoiding them""",best
+107,Bangkok Airways,1,"""Brilliant flight""",Premium
+108,Bangkok Airways,1,"""true feelgood experience""",Economy
+109,Bangkok Airways,1,"""very proficient and competent staff""",great
+110,Bangkok Airways,1,"""A very poor experience""",welcoming
+111,Bangkok Airways,4,"""check in now by kiosk""",friendly
+112,Bangkok Airways,1,"""excellent value for money""",told
+113,Bangkok Airways,9,"""a very good product for the price""",cancellation
+114,Bangkok Airways,7,"""truly get a feeling of luxury onboard""",fee
+115,Bangkok Airways,9,"""Asia's favourite boutique airline""",found
+116,Bangkok Airways,1,"""luggage nowhere to be found on arrival in Phnon Penh""",leg
+117,Bangkok Airways,1,"""Always on time, crew are always perfect""",room
+118,Bangkok Airways,1,"""What was their standard and procedure?""",excellent
+119,Bangkok Airways,1,"""want to thank Bangkok Airways for their time""",Customer
+120,Bangkok Airways,1,"""the stewardess had acted properly""",best
+121,Bangkok Airways,1,"""friendly yet hard-working people""",cabin
+122,Bangkok Airways,8,"""Friendly staff, good service""",sparkling
+123,Bangkok Airways,9,"""a true dedicated employee""",good
+124,Bangkok Airways,9,"""Excellent  experience on Bangkok Airways""",In-flight
+125,Bangkok Airways,9,"""very pleased and impressed""",meals
+126,Bangkok Airways,1,"""they are changing flight""",exceptional
+127,Bangkok Airways,5,"""wait at the airport for 4 hours""",superb
+128,Bangkok Airways,1,"""nick name instead of passport name""",exceptional
+129,Bangkok Airways,9,"""best in class airline""",highly
+130,Bangkok Airways,1,"""one of the best regional airlines""",ANA
+131,Bangkok Airways,9,"""always lots of helpful staff""",tried
+132,Bangkok Airways,1,"""will highly recommend them""",compensation
+133,Bangkok Airways,6,"""only option is Economy Class""",surfboard
+134,Bangkok Airways,1,"""rebook my original flights""",bag
+135,Bangkok Airways,1,"""What a fantastic airline""",big
+136,Bangkok Airways,1,"""a lovely service on a very short flight""",going
+137,Bangkok Airways,1,"""a very good experience""",efficient
+138,Bangkok Airways,1,"""Fully recommended!""",pleasant
+139,Bangkok Airways,8,"""Once again a great flight""",FAs
+140,Bangkok Airways,8,"""friendly all the way""",Good
+141,Bangkok Airways,8,"""comfortable for a short flight""",good
+142,Bangkok Airways,6,"""the flight was comfortable""",day
+143,Bangkok Airways,9,"""efficient, friendly and professional""",Typhoon
+144,Bangkok Airways,2,"""The cabin crew were nice""",Hagibis
+145,Bangkok Airways,1,"""They cancelled my flight""",poor
+146,Bangkok Airways,5,"""flight was delayed by 2 hours""",ticketing
+147,Bangkok Airways,1,"""I wasn't disappointed""",system
+148,Bangkok Airways,9,"""cant see how economy class can get any better""",stairs
+149,Bangkok Airways,9,"""There is nothing not to like""",ANA
+150,Bangkok Airways,1,"""No faults whatsoever""",pleasure
+151,Bangkok Airways,1,"""Staff very attentive""",serving
+152,Bangkok Airways,9,"""great airline to fly with""",hearts
+153,Bangkok Airways,8,"""okay on medium haul""",disappointing
+154,Bangkok Airways,9,"""staff is really nice""",check-in
+155,Bangkok Airways,1,Bangkok Airways customer review,FAs
+156,Bangkok Airways,9,"""the service is great""",excellent
+157,Bangkok Airways,8,"""seated with a good legroom""",best
+158,Bangkok Airways,9,"""definitely a boutique airline""",happy
+159,Bangkok Airways,6,"""did get us on the later flight""",high
+160,Bangkok Airways,7,"""offer a good service for a good price""",standards
+161,Bangkok Airways,8,"""Cabin crew were very pleasant""",cancelled
+162,Bangkok Airways,1,"""baggage took more than 1 hour""",food
+163,Bangkok Airways,1,"""waited 1 hour for the bags""",average
+164,Bangkok Airways,2,"""a massive disappointment""",satisfied
+165,Bangkok Airways,9,"""Great service thank you""",ANA
+166,Bangkok Airways,3,"""old planes, low legspace""",satisfied
+167,Bangkok Airways,1,"""good value for the money""",ANA
+168,Bangkok Airways,3,"""has become uncaring of its passengers""",food
+169,Bangkok Airways,1,"""Staff went above and beyond""",delicious
+170,Bangkok Airways,8,"""Lovely short flight""",fresh
+171,Bangkok Airways,9,"""Nothing to complain about""",Crew
+172,Bangkok Airways,2,"""aircraft was old and dirty""",extremely
+173,Bangkok Airways,9,"""every flight has been excellent""",friendly
+174,Bangkok Airways,8,"""FAs were professional, pleasant""",best
+175,Bangkok Airways,5,"""lack of convenient flights""",ANA
+176,Bangkok Airways,3,"""charged for luggage over 20kg""",attendant
+177,Bangkok Airways,8,"""absolutely worth the money""",faulted
+178,Bangkok Airways,1,"""didn't propose any help or flexibility""",purchased
+179,Bangkok Airways,4,"""Time to refresh Bangkok Airways?""",tickets
+180,Bangkok Airways,1,"""excess luggage expensive""",FA
+181,Bangkok Airways,8,"""professional and friendly""",personable
+182,Bangkok Airways,1,"""disappointed with our experience""",best
+183,Bangkok Airways,1,"""efficient inflight service""",tried
+184,Bangkok Airways,5,"""Attentive crew, smooth flight""",seats
+185,Bangkok Airways,2,"""now its very mediocre""",lot
+186,Bangkok Airways,2,"""web site is misleading""",privacy
+187,Bangkok Airways,6,"""I’d recommend them""",real
+188,Bangkok Airways,8,"""Cabin service excellent""",5
+189,Bangkok Airways,3,"""the plane was in an unacceptable state""",Star
+190,Bangkok Airways,1,"""got a ticket for a free meal""",Wonderful
+191,Bangkok Airways,7,"""Everything went fine""",wonderful
+192,Bangkok Airways,8,"""good as it gets in economy""",Overall
+193,Bangkok Airways,6,"""inflight service  very reasonable""",good
+194,Bangkok Airways,6,"""service onboard was really good""",cabin
+195,Bangkok Airways,1,"""assistance and hospitality""",crew
+196,Bangkok Airways,1,"""Great little airline""",fantastic
+197,Bangkok Airways,4,"""all passengers was squeezed next to each other""",extremely
+198,Bangkok Airways,1,"""staff relaxed and very friendly""",happy
+199,Bangkok Airways,7,"""aircraft interior was starting to show its age""",seamless
+200,China Southern Airlines,1,"""I recommend China Southern Airlines""",perfect
+201,China Southern Airlines,1,"""dismissive and borderline rude""",great
+202,China Southern Airlines,1,"""very pleasant long trip""",greatest
+203,China Southern Airlines,1,"""service was very good""",treatment
+204,China Southern Airlines,7,"""seat, plane and amenities are super clean""",passengers
+205,China Southern Airlines,9,"""I am very grateful to her""",crew
+206,China Southern Airlines,1,"""The crew was professional""",friendly
+207,China Southern Airlines,9,"""ample legroom and comfortable seats""",avoiding
+208,China Southern Airlines,8,"""excellent ground and cabin service""",Brilliant
+209,China Southern Airlines,1,"""in-flight service was remarkable""",TRUE
+210,China Southern Airlines,9,China Southern Airlines customer review,feelgood
+211,China Southern Airlines,8,"""pleasantly surprised and satisfied""",proficient
+212,China Southern Airlines,9,"""I had a positive experience""",competent
+213,China Southern Airlines,9,"""staff were friendly, professional""",poor
+214,China Southern Airlines,8,"""Thank you, ground crew""",kiosk
+215,China Southern Airlines,1,"""reassuring in terms of service level""",excellent
+216,China Southern Airlines,9,"""ticket change and refund is much greater""",money
+217,China Southern Airlines,1,"""Save your money and fly with someone else""",good
+218,China Southern Airlines,8,"""staff are very friendly""",product
+219,China Southern Airlines,8,"""gave me the best service""",truly
+220,China Southern Airlines,1,"""staff were very friendly""",feeling
+221,China Southern Airlines,8,"""happily fly this airline again""",luxury
+222,China Southern Airlines,9,"""A considerate crew""",Asia
+223,China Southern Airlines,1,"""a very pleasant long trip""",favourite
+224,China Southern Airlines,8,"""food is relatively monotonous""",boutique
+225,China Southern Airlines,1,"""airline service is good""",luggage
+226,China Southern Airlines,8,"""cabin service should be enhanced""",found
+227,China Southern Airlines,9,"""a great flying experience""",arrival
+228,China Southern Airlines,1,"""The trip was very pleasant""",Phnon
+229,China Southern Airlines,9,"""seats on the plane are very comfortable""",Penh
+230,China Southern Airlines,9,"""service was very comprehensive""",time
+231,China Southern Airlines,9,"""professional ground staff""",crew
+232,China Southern Airlines,1,"""I appreciate the staff help""",perfect
+233,China Southern Airlines,9,"""handled the upgrade at the counter""",standard
+234,China Southern Airlines,9,"""comfortable with no surprise""",procedure
+235,China Southern Airlines,1,"""staff helped me with hospitality""",Bangkok
+236,China Southern Airlines,1,China Southern Airlines customer review,Airways
+237,China Southern Airlines,9,"""appreciated your sincere service""",time
+238,China Southern Airlines,9,"""has been a wonderful experience""",stewardess
+239,China Southern Airlines,8,"""crew provided good service""",acted
+240,China Southern Airlines,9,"""upgraded my cabin at a low price""",properly
+241,China Southern Airlines,1,"""an incredible journey""",friendly
+242,China Southern Airlines,9,"""I am very grateful for this""",hard-working
+243,China Southern Airlines,1,"""patiently helped us for nearly two hours""",people
+244,China Southern Airlines,1,"""comfortable and happy on this flight""",Friendly
+245,China Southern Airlines,1,"""Very attentive staff at airport""",good
+246,China Southern Airlines,9,"""Amazing experience""",TRUE
+247,China Southern Airlines,9,"""thank the staff of China Southern Airlines""",dedicated
+248,China Southern Airlines,8,"""staff are hospitable and helpful""",employee
+249,China Southern Airlines,9,"""I really enjoyed it""",Excellent
+250,China Southern Airlines,8,"""excellent cabin service""",Bangkok
+251,China Southern Airlines,1,"""A nice travel experience""",Airways
+252,China Southern Airlines,9,"""The staff were so kind""",pleased
+253,China Southern Airlines,1,"""Thanks to all the staff that day""",impressed
+254,China Southern Airlines,6,"""ridiculous for this intense process""",changing
+255,China Southern Airlines,9,"""very grateful to the ground staff""",4
+256,China Southern Airlines,9,"""treat passengers with a warm smile""",hours
+257,China Southern Airlines,1,"""My family and I are very thankful""",nick
+258,China Southern Airlines,1,"""Thank the staff of China Southern Airlines""",instead
+259,China Southern Airlines,9,"""enjoy a wonderful breakfast""",passport
+260,China Southern Airlines,1,"""very satisfied with their service""",best
+261,China Southern Airlines,8,"""A350 was new and seat was comfortable""",class
+262,China Southern Airlines,8,"""it was an impressing trip""",best
+263,China Southern Airlines,9,"""friendly ground staff""",regional
+264,China Southern Airlines,1,"""staff helped me think of various ways""",airlines
+265,China Southern Airlines,7,"""the cabin now looks like out-time""",lots
+266,China Southern Airlines,9,"""Thank the staff of Guangzhou Airport""",helpful
+267,China Southern Airlines,8,"""good cabin service""",highly
+268,China Southern Airlines,9,"""It was a great flight""",option
+269,China Southern Airlines,8,"""cabin service is not bad""",Economy
+270,China Southern Airlines,9,"""good protective / barrier measures""",Class
+271,China Southern Airlines,7,"""flight attendant was very patient""",original
+272,China Southern Airlines,9,"""service still in high level""",flights
+273,China Southern Airlines,9,"""slept through my entire trip""",fantastic
+274,China Southern Airlines,9,"""kept inquiring about relevant information""",lovely
+275,China Southern Airlines,8,"""calmed me down with excellent service""",short
+276,China Southern Airlines,9,"""thoughtful cabin service""",good
+277,China Southern Airlines,9,"""experience is really good""",Fully
+278,China Southern Airlines,9,"""we were assisted by ground staff""",recommended
+279,China Southern Airlines,9,"""Thanks to all the staff""",great
+280,China Southern Airlines,9,"""A nice trip!""",friendly
+281,China Southern Airlines,9,"""well looked after by the staff""",way
+282,China Southern Airlines,1,"""thank all the airport staff""",comfortable
+283,China Southern Airlines,8,"""attentive crew service""",short
+284,China Southern Airlines,9,"""ground staff were very helpful""",comfortable
+285,China Southern Airlines,9,"""a thanks note after my quarantine""",efficient
+286,China Southern Airlines,8,"""I am so grateful for all the staff""",friendly
+287,China Southern Airlines,9,"""crew were friendly and patient""",cabin
+288,China Southern Airlines,9,"""makes me feel at ease to fly in the epidemic""",crew
+289,China Southern Airlines,9,"""cabin crew was very friendly""",nice
+290,China Southern Airlines,9,"""I really appreciate the help""",cancelled
+291,China Southern Airlines,1,"""special thank you letter""",delayed
+292,China Southern Airlines,9,"""demonstrated great hospitality""",2
+293,China Southern Airlines,8,"""attentive flight attendants""",hours
+294,China Southern Airlines,1,"""a special thank you letter""",disappointed
+295,China Southern Airlines,1,"""Thanks a lot for the help""",cant
+296,China Southern Airlines,8,"""crew members service are good""",economy
+297,China Southern Airlines,1,"""impressed with the customer service""",class
+298,China Southern Airlines,9,"""responsible and patient with passengers""",better
+299,China Southern Airlines,9,"""staff is very professional""",faults
+300,Hainan Airlines,1,"""their services were pretty consistent""",whatsoever
+301,Hainan Airlines,1,"""particularly good travel experience""",attentive
+302,Hainan Airlines,1,"""warm and thoughtful service""",great
+303,Hainan Airlines,1,"""high-quality service of flight attendants""",okay
+304,Hainan Airlines,1,"""Thanks for offering such nice flight""",medium
+305,Hainan Airlines,1,"""maintains amazing cabin service""",haul
+306,Hainan Airlines,1,"""Keep up the good work""",nice
+307,Hainan Airlines,1,"""very warm-hearted and thoughtful""",Bangkok
+308,Hainan Airlines,1,"""maintain high standards of service""",Airways
+309,Hainan Airlines,1,"""Thank you all for your kind service""",customer
+310,Hainan Airlines,1,"""gave us a perfect and impressive travel""",great
+311,Hainan Airlines,1,"""overall ride is very comfortable""",seated
+312,Hainan Airlines,1,"""very satisfied with their service""",good
+313,Hainan Airlines,1,"""deep respect and heartfelt thanks""",legroom
+314,Hainan Airlines,9,"""very kind cabin staff""",definitely
+315,Hainan Airlines,9,"""four fabulous flights""",boutique
+316,Hainan Airlines,9,"""A very comfortable flight""",later
+317,Hainan Airlines,9,"""I would recommend it""",good
+318,Hainan Airlines,8,"""wrote a birthday card for me""",good
+319,Hainan Airlines,1,"""attendants cared so much""",Cabin
+320,Hainan Airlines,6,"""mean with top ups for me""",crew
+321,Hainan Airlines,8,"""professional service""",pleasant
+322,Hainan Airlines,9,"""provided hospitable service""",baggage
+323,Hainan Airlines,9,"""the crew was excellent""",took
+324,Hainan Airlines,3,"""good thing was the staff were friendly""",1
+325,Hainan Airlines,6,"""Very disappointing experience""",hour
+326,Hainan Airlines,2,"""Inflight the service is good""",waited
+327,Hainan Airlines,4,"""flight was comfortable""",1
+328,Hainan Airlines,9,"""excellent service supplied""",hour
+329,Hainan Airlines,1,"""The flight crew was nice""",bags
+330,Hainan Airlines,1,"""thankful for the staff service""",massive
+331,Hainan Airlines,9,"""I had a pleasant experience""",disappointment
+332,Hainan Airlines,1,Hainan Airlines customer review,Great
+333,Hainan Airlines,1,"""deserves its 5-Star rating""",old
+334,Hainan Airlines,8,"""I would love to fly again""",planes
+335,Hainan Airlines,1,""" she couldn't check my bags through""",low
+336,Hainan Airlines,1,"""wonderful travel experience""",legspace
+337,Hainan Airlines,1,"""flight attendants are very nice""",good
+338,Hainan Airlines,1,"""I really enjoyed my flight""",money
+339,Hainan Airlines,9,"""The flight was great""",uncaring
+340,Hainan Airlines,1,"""Would definitely recommend""",passengers
+341,Hainan Airlines,9,"""impressed with the service""",went
+342,Hainan Airlines,1,"""Staff very friendly and polite""",Lovely
+343,Hainan Airlines,5,"""only if we had been on higher fare class""",short
+344,Hainan Airlines,9,"""I had a satisfied flight""",old
+345,Hainan Airlines,9,"""recommend Hainan Airlines""",dirty
+346,Hainan Airlines,1,""" Cabin crew were very friendly""",excellent
+347,Hainan Airlines,1,"""Real 5-star experience""",FAs
+348,Hainan Airlines,1,Hainan Airlines customer review,pleasant
+349,Hainan Airlines,1,"""it's a great flight""",convenient
+350,Hainan Airlines,1,"""very nice and friendly""",flights
+351,Hainan Airlines,1,"""above Singapore Airlines""",charged
+352,Hainan Airlines,1,"""What a great experience""",luggage
+353,Hainan Airlines,1,"""very professional and friendly""",20kg
+354,Hainan Airlines,5,"""staff in China speaks no English""",absolutely
+355,Hainan Airlines,9,"""an excellent experience""",worth
+356,Hainan Airlines,2,"""Transfer experience was awful""",money
+357,Hainan Airlines,9,"""hostesses worked hard""",flexibility
+358,Hainan Airlines,1,"""nicest experiences we had""",Time
+359,Hainan Airlines,1,"""provided the best services""",Bangkok
+360,Hainan Airlines,1,"""recommend Hainan Airlines""",Airways
+361,Hainan Airlines,1,"""most enjoyable experience""",excess
+362,Hainan Airlines,1,"""screen does not work""",luggage
+363,Hainan Airlines,1,"""experience was pleasant""",expensive
+364,Hainan Airlines,7,"""things that are easy to solve""",friendly
+365,Hainan Airlines,9,"""valuable fly experience""",disappointed
+366,Hainan Airlines,1,"""on a very high standard""",efficient
+367,Hainan Airlines,1,"""outbound flight was cancelled""",Attentive
+368,Hainan Airlines,9,"""professional service standard""",crew
+369,Hainan Airlines,9,"""really friendly and welcoming""",mediocre
+370,Hainan Airlines,1,"""superb flight experience""",web
+371,Hainan Airlines,1,"""All in all amazing experience""",site
+372,Hainan Airlines,9,"""now it is fantastic""",misleading
+373,Hainan Airlines,9,"""group of friendly staff""",’
+374,Hainan Airlines,9,"""very attentive and efficient""",d
+375,Hainan Airlines,1,"""smiles and attentiveness""",Cabin
+376,Hainan Airlines,3,"""not booked with their official site""",excellent
+377,Hainan Airlines,9,"""outstanding and enjoyable""",unacceptable
+378,Hainan Airlines,8,"""a great flying experience""",ticket
+379,Hainan Airlines,9,"""I wasn't disappointed""",free
+380,Hainan Airlines,1,"""deserve to be a 5 star airline""",meal
+381,Hainan Airlines,9,"""Very nice experience""",went
+382,Hainan Airlines,9,"""well-trained flight attendant""",fine
+383,Hainan Airlines,9,"""trip exceeds my expectations""",good
+384,Hainan Airlines,2,"""given a seat in middle section""",gets
+385,Hainan Airlines,1,"""attendants are friendly""",economy
+386,Hainan Airlines,1,"""service was excellent""",reasonable
+387,Hainan Airlines,1,"""Excellent service""",good
+388,Hainan Airlines,9,"""a pleasant cabin experience""",assistance
+389,Hainan Airlines,1,"""assisting me to transfer""",hospitality
+390,Hainan Airlines,1,"""sacrificed their rest time""",Great
+391,Hainan Airlines,9,"""efficient ground staff""",little
+392,Hainan Airlines,1,"""bright smile and expression""",passengers
+393,Hainan Airlines,9,"""I was pleasantly surprised""",squeezed
+394,Hainan Airlines,8,"""truly stellar service""",relaxed
+395,Hainan Airlines,8,"""the flight was pretty good""",friendly
+396,Hainan Airlines,9,"""helpful and responsive""",interior
+397,Hainan Airlines,9,"""Feeling very good""",starting
+398,Hainan Airlines,9,"""made me very comfortable""",age
+399,Hainan Airlines,5,"""internet was not available""",China
+400,QantasLink,8,"""A comfortable flight""",Southern
+401,QantasLink,3,"""Not business Class quality""",Airlines
+402,QantasLink,6,"""the toilet ran out of soap""",dismissive
+403,QantasLink,1,"""3 flights in 2 days gets cancelled""",borderline
+404,QantasLink,1,"""how they can justify nearly 4 times their normal price""",rude
+405,QantasLink,1,"""two cancelled flights on the long weekend""",pleasant
+406,QantasLink,3,"""I am still waiting for my baggage to arrive""",long
+407,QantasLink,1,"""Last time that I book with Qantas""",trip
+408,QantasLink,2,"""Monumentally bad service from Qantas""",good
+409,QantasLink,8,"""Cabin crew were efficient and friendly""",amenities
+410,QantasLink,1,"""refused any compensation or refund""",super
+411,QantasLink,8,"""will fly QantasLink and this route again""",grateful
+412,QantasLink,2,"""Lesson Learnt I'll never fly Qantas again""",crew
+413,QantasLink,9,"""flight was a near-perfect experience""",ample
+414,QantasLink,1,"""had a great experience""",legroom
+415,QantasLink,1,"""A good flight""",comfortable
+416,QantasLink,9,"""very pleasant flight""",seats
+417,QantasLink,1,"""I’m so over Qantas""",excellent
+418,QantasLink,8,"""it's just not worth it""",cabin
+419,QantasLink,9,"""got me on a earlier flight""",in-flight
+420,QantasLink,8,"""cabin crew were helpful""",remarkable
+421,QantasLink,8,"""sandwich would be preferable""",China
+422,QantasLink,9,"""a pleasant experience""",Southern
+423,QantasLink,2,"""annoyed with the service""",Airlines
+424,QantasLink,1,"""friendly cabin crew""",customer
+425,QantasLink,3,"""Crew were inexperienced and abrupt""
+",pleasantly
+426,QantasLink,1,"""staff incredibly helpful""",surprised
+427,QantasLink,8,"""Arrived on time, quiet flight""",satisfied
+428,QantasLink,8,"""I enjoyed the flight""",positive
+429,QantasLink,6,"""Cabin crew were friendly""",friendly
+430,QantasLink,9,"""Very good flight""",crew
+431,QantasLink,3,"""disappointed with the flight""",reassuring
+432,QantasLink,1,"""B717 noise levels bordering on torture""",terms
+433,QantasLink,8,"""In flight service was excellent""",level
+434,QantasLink,8,"""excellent service on this sector""",ticket
+435,QantasLink,7,"""The flight was decent""",greater
+436,QantasLink,7,"""Boeing 717 and I was impressed""",money
+437,QantasLink,9,"""a flawless experience""",friendly
+438,QantasLink,9,"""Very relaxed flight""",gave
+439,QantasLink,9,"""crew friendly and helpful""",best
+440,QantasLink,7,"""breakfast meal was tasty""",friendly
+441,QantasLink,1,"""blown away by the service""",happily
+442,QantasLink,8,"""service was friendly""",considerate
+443,QantasLink,7,"""service was good""",crew
+444,QantasLink,2,"""leaves a lot to be desired""",pleasant
+445,QantasLink,5,"""catering is awful""",long
+446,QantasLink,8,"""good flights overall""",trip
+447,QantasLink,7,"""very smooth return trip""",food
+448,QantasLink,9,"""we had no complaints""",relatively
+449,QantasLink,9,"""pleasure flying with QantasLink""",monotonous
+450,QantasLink,2,QantasLink customer review,good
+451,QantasLink,6,QantasLink customer review,cabin
+452,QantasLink,1,QantasLink customer review,enhanced
+453,QantasLink,1,QantasLink customer review,great
+454,QantasLink,10,QantasLink customer review,flying
+455,QantasLink,7,QantasLink customer review,trip
+456,QantasLink,8,QantasLink customer review,pleasant
+457,QantasLink,8,QantasLink customer review,seats
+458,QantasLink,9,QantasLink customer review,comfortable
+459,QantasLink,3,QantasLink customer review,comprehensive
+460,QantasLink,8,QantasLink customer review,handled
+461,QantasLink,7,QantasLink customer review,counter
+462,QantasLink,8,QantasLink customer review,comfortable
+463,QantasLink,1,QantasLink customer review,helped
+464,QantasLink,9,QantasLink customer review,hospitality
+465,QantasLink,9,QantasLink customer review,China
+466,QantasLink,9,QantasLink customer review,Southern
+467,QantasLink,6,QantasLink customer review,Airlines
+468,QantasLink,8,QantasLink customer review,customer
+469,QantasLink,8,QantasLink customer review,appreciated
+470,QantasLink,3,QantasLink customer review,sincere
+471,QantasLink,7,QantasLink customer review,wonderful
+472,QantasLink,9,QantasLink customer review,crew
+473,QantasLink,9,QantasLink customer review,provided
+474,QantasLink,9,QantasLink customer review,good
+475,QantasLink,2,QantasLink customer review,upgraded
+476,QantasLink,1,QantasLink customer review,cabin
+477,QantasLink,9,QantasLink customer review,low
+478,QantasLink,1,QantasLink customer review,incredible
+479,QantasLink,8,QantasLink customer review,journey
+480,QantasLink,1,QantasLink customer review,grateful
+481,QantasLink,8,QantasLink customer review,patiently
+482,QantasLink,9,QantasLink customer review,helped
+483,QantasLink,8,QantasLink customer review,nearly
+484,QantasLink,9,QantasLink customer review,hours
+485,QantasLink,9,QantasLink customer review,comfortable
+486,QantasLink,6,QantasLink customer review,happy
+487,QantasLink,8,QantasLink customer review,attentive
+488,QantasLink,9,QantasLink customer review,Amazing
+489,QantasLink,7,QantasLink customer review,China
+490,QantasLink,8,QantasLink customer review,Southern
+491,QantasLink,7,QantasLink customer review,Airlines
+492,QantasLink,9,QantasLink customer review,hospitable
+493,QantasLink,7,QantasLink customer review,helpful
+494,QantasLink,9,QantasLink customer review,enjoyed
+495,QantasLink,8,QantasLink customer review,excellent
+496,QantasLink,2,QantasLink customer review,cabin
+497,QantasLink,9,QantasLink customer review,nice
+498,QantasLink,8,QantasLink customer review,kind
+499,QantasLink,9,QantasLink customer review,Thanks
